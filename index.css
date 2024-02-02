@@ -1,0 +1,35 @@
+body {
+    background-color: aquamarine;
+}
+/* Element Selector */
+
+p {
+    color: brown;
+    font-size: 20px;
+    padding: 0px;
+ }
+/* ID Selector */
+#Ikemefuna {
+    font-size: 25px;
+    font-weight: 800;
+    text-decoration: underline;
+    color: blue;
+}
+div {
+    width: 700px;
+    margin: auto;
+}
+/* ID Selector */
+#forms {
+    font-size: 20px;
+    font-weight: 300;
+    text-decoration: solid;
+    color: brown;
+}
+/* ID Selector */
+#submit {
+    color: blue;
+    font-size: 25px;
+    width: 100px;
+   text-decoration: solid;
+}
